@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @toriatokki
+- 👀 I’m interested in video games, cats, and kpop!
+- 🌱 I’m currently learning Typescript
+- 💞️ I’m open to collaborating on anything that interests me!
